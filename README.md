@@ -1,2 +1,2 @@
-# mood-and-weather
-Taking a look on how weather might be a predictor of mood in Austin TX
+# graduate-work
+Selection of projects and other work from Syracuse's Applied Data Science program. Updated regularly. 
