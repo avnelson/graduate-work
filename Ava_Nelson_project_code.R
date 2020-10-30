@@ -421,10 +421,10 @@ library(rtweet)
 library(tidytext)
 
 appname <- "Austin Weather Sentiment"
-key <- "xkzBxuFR0VIzBcQF6DsVNChsq"
-secretkey <- "vwiSkmDVgg33xwaywLhhbtYheurOMci6Ilv5Oa4u1LZUJ5FbYr"
-accesstoken <- "720693854144344064-jIUxDSV8cbSvhL0e4LHOUkbNUSqxzIA"
-accesssecret <- "bQJajgnZwQJ7hVeQeONK0QqStqJkdyLRil8R6UBm0C39s"
+key <- ""
+secretkey <- ""
+accesstoken <- ""
+accesssecret <- ""
 
 twitter.token <- create_token(
   app = appname,
