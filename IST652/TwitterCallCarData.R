@@ -2,10 +2,10 @@ library(rtweet)
 library(tidytext)
 
 appname <- "Used Vehicle Search"
-key <- "xvQsElcvL60oQHDCd3rY70gek"
-secretkey <- "N4Weji6R4LBYwHvvE6s0IllmY7YKS1V9GLMSHlCGUd2RB5ThAa"
-accesstoken <- "720693854144344064-v9R26G4SVo0hSKhDiKrjt6myX9JKczL"
-accesssecret <- "ArYkMabaKc5CuTQrpl6v8vSccL5vkO6HG40uKEzbSr0re"
+key <- ""
+secretkey <- ""
+accesstoken <- ""
+accesssecret <- ""
 
 twitter.token <- create_token(
   app = appname,
