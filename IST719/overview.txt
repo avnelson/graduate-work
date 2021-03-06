@@ -1,0 +1,28 @@
+Information Visualization
+IST719
+
+Final Project: Poster Design
+
+Folder Contents:
+-BIRD_POSTER.png (final submission for IST719 course)
+-ava_nelson_poster_script.R (RStudio script for generating plots for the poster)
+
+Dataset
+
+The chosen data is bird migration data collected by the US Geological Survey from 1966-2019 in the state of Texas. The dataset for this homework only includes year, route, bird species, and count numbers for the state.
+
+Source - https://www.sciencebase.gov/catalog/item/5ea04e9a82cefae35a129d65
+
+A supplementary dataset that will be utilized is monthly climate data from the NOAA. The dataset includes average temperatures by month for the state of Texas. This will be analyzed against select bird counts to determine correlation.
+
+Source - https://www.sciencebase.gov/catalog/item/5ea04e9a82cefae35a129d65
+
+
+Story
+
+As someone who has been invested in birdwatching in Texas for many years, I have observed changed in the bird species I see any given season. Seeing how bird distribution is changing with respect to global warming is a grim illustration of the changing world around us.
+
+
+Audience 
+
+The audience are people who are naturalists at heart. Those who care for the world around them and want to learn about visible impacts of Climate Change in their own backyard. 
