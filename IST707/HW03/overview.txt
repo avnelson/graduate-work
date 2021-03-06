@@ -1,0 +1,10 @@
+Data Analytics
+IST707
+
+HW03: Association Rule Mining Exercise with Banking PEP Accounts
+
+Folder Contents:
+-ARM_BankLoc.R (RStudio script file fo running ARM analysis against dataset)
+-ARM_Report.docx (Final deliverable containing project prosposal, process, and findings.)
+-data-storyteller.csv (source data used by script)
+
