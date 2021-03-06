@@ -1,0 +1,15 @@
+Data Analytics
+IST707
+
+Final Project: Does Texas Weather Make People Crazy?
+
+Folder Contents:
+-Final_Project_Report.docx.pdf (final report for project. Includes project proposal, process, and findings)
+-austin_weather.csv (source dataset)
+-project_code.R (compiled code script. Viewable in RStudio)
+-sentiments.csv (dataset gathered from Twitter API)
+
+Dataset
+GrubenM. (2017) Austin Weather. [Dataset] Available on Kaggle website: https://www.kaggle.com/grubenm/austin-weather
+
+
