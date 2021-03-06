@@ -1,0 +1,15 @@
+Database Administration & Management
+IST659
+
+Final Project: ISO Art Database 
+
+Folder Contents:
+-Art_Patron_Database.docx (final report for project. Includes project proposal, process, and findings)
+-CAPE Project-Logical Model.png (logical model for database schema design)
+-CAPE.Insert.Keywords.sql (SQL script for inserting values into conformed db dimensions)
+-CAPE.Insert.Listing.sql (SQL script mocking data insertion into database)
+-CAPEProject.sql (SQL script building database schema)
+
+Google Sheet ETL/Intake Form
+ETL: https://docs.google.com/spreadsheets/d/1k4sxD7-DiZ8WSSqeZIvqCg5BB_G8E7GBilUtYp2JvII/edit?usp=sharing
+Intake Form: https://forms.gle/swchfxywEteNJcL47
