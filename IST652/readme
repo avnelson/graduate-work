@@ -1,5 +1,17 @@
-Source: Kaggle Used Car Dataset (trimmed to just coupes)
+Data Scripting (Python)
+IST652
 
+Final Project: Consider: Craigslist Coups, Sports car "shopping" on used car Craigslist.
 Developing a tool using Jupyter to create comparitive profiles of models found on craigstlist, with intent of analyzing vehicle features for improved purchasing knowledge.
 
-Start with Car Cleaning doc and see Report for full write up.
+Folder Contents:
+-CarSearch_Project_Report.docx (final report for project. Includes project proposal, process, and findings)
+-Car_Search_Cleaning.ipynb (python script for cleaning raw dataset. Available on jupyter notebook)
+-Car_Search_GGPlot.ipynb (python script for EDA. Available on jupyter notebook)
+-TwitterCallCarData.R (RStudio script for calling and storing Twitter API queries)
+-car_Sentiment.ipynb (python script for running sentiment analysis on specified makes/models. Available on jupyter notebook.)
+-make_model.ipynb (python script for normalizing listed makes and models and running search functions. Available on jupyter notebook.)
+-vehicles_trimmed_coupe.csv (filtered dataset from source data, containing only coupe bodystyles)
+
+Source: 
+Reese, Austin. (2020). Used cars dataset; Vehicles listings from craigslist.org. [Dataset]. Available on Kaggle website: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
