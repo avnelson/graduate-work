@@ -1,0 +1,25 @@
+Big Data
+IST 717
+
+Final Project: Representative! Observing Ticket Duration Trends and Ways to Improve Efficiency with Servicenow.
+
+Folder Contents:
+-(folder) HTMLs (contains all HTML outputs for project)
+-1 scrub script.ipynb (python script for scrubbing raw data. Available on jupyter notebook)
+-10_GIS_Time_Analysis.ipynb (python script for running geospatial time series. Available on jupyter notebook)
+-11_A_J_Geocoder.ipynb (python script for mapping geospatial data to points. Available on jupyter notebook)
+-2 cleaning and eda.ipynb (cleaning and initial exploration of scrubbed data. Available on jupyter notebook)
+-3 EDA_AG.ipynb (more in depth EDA analysis. Available on jupyter notebook)
+-4 EDA_Subcategory.ipynb (EDA focused on ticket subcategory. Available on jupyter notebook)
+-6 Classification RF DT Logit.ipynb (Classification Models run for employee cost and time durations. Available on jupyter notebook)
+-7 Converting Categories to TimeSeries DFs.ipynb (Conversion of datasets to time series friendly formats. Available on jupyter notebook)
+-718 Final Presentation_Mobile2.pptx (Final Presentation of restults)
+-8 Time Series for subcategories.ipynb (pythonn script running time series analysis for subcategory durations. Available on jupyter notebook)
+-9 Prophet_Forecast_to_Staffing_Suggestion.ipynb (python script running Prophet forecasts for ticket durations. Available on jupyter notebook)
+-Copy of Time Series for subcategories.ipynb
+-EDA_duration.ipynb (python script for running EDA on subcategory data. Available on jupyter notebook)
+-IST718_Project_locations_us.ipynb (python script for normalizing data locations in prep for geocoding. Available on jupyter notebook)
+-nlp.ipynb (python script running NLP on problem descriptions. Available on jupyter notebook)
+
+Source: 
+Reese, Austin. (2020). Used cars dataset; Vehicles listings from craigslist.org. [Dataset]. Available on Kaggle website: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
